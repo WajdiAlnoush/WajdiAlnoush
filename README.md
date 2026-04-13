@@ -1,5 +1,5 @@
 ## Hi, I'm Wajdi. 👋
-
+**`(Electro)Chemical Engineer`**
 🔭 I’m currently working on ...
 
 
