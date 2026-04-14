@@ -10,6 +10,8 @@
 
 <h4 align="left">I make scientific graphics & schematics with:</h3>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
+<a href="https://www.originlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.originlab.com/images/logo-originlab.svg" alt="originpro" width="30" height="30"/> </a>
+
 <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
