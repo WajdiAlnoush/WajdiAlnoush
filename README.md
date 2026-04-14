@@ -14,9 +14,21 @@
 
 
 <h4 align="left">Other tools in my arsenal:</h3>
-<a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="word" width="30" height="30"/> </a>
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="30" height="30"/> </a>
-<a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" alt="powerpoint" width="30" height="30"/> </a>
+
+  <!-- Microsoft Word -->
+  <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftword" alt="word" width="30" height="30"/>
+  </a>
+
+  <!-- Microsoft Excel -->
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" width="30" height="30"/>
+  </a>
+
+  <!-- Microsoft PowerPoint -->
+  <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftpowerpoint" alt="powerpoint" width="30" height="30"/>
+  </a>
   <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
