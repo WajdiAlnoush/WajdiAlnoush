@@ -11,6 +11,12 @@
 <h4 align="left">I make scientific graphics & schematics with:</h3>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 <a href="https://www.originlab.com/" target="_blank" rel="noreferrer"> <img src="https://logo.clearbit.com/originlab.com" alt="originpro" width="30" height="30"/> </a>
+
+
+<h4 align="left">Other tools in my arsenal:</h3>
+<a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" alt="word" width="30" height="30"/> </a>
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="30" height="30"/> </a>
+<a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" alt="powerpoint" width="30" height="30"/> </a>
   <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
