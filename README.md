@@ -1,14 +1,14 @@
 ## Hi, I'm Wajdi. 👋
-**`(Electro)Chemical Engineer`**
+**`(Electro)Chemical Engineer | Materials Scientist`**
 
 🔭 I’m currently working on ...
 
 
-<h4 align="left">Languages:</h3>
+<h4 align="left">I code and analyze data using:</h3>
 
 <p align="left">  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
 
-<h4 align="left">3D Schematics:</h3>
+<h4 align="left">I make scientific graphics & schematics with:</h3>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
