@@ -1,7 +1,7 @@
 ## Hi, I'm Wajdi. 👋
 **`(Electro)Chemical Engineer | Materials Scientist`**
 
-🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 
 
 <h4 align="left">I code and analyze data using:</h3>
@@ -29,6 +29,13 @@
   <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/microsoftpowerpoint" alt="powerpoint" width="30" height="30"/>
   </a>
+
+  ## Projects & Interests
+
+🔭 I’m currently working on ...
+
+  ## Skills & Tools
+  
   <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
