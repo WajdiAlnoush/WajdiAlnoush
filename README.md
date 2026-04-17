@@ -1,4 +1,4 @@
-## Hi, I'm Wajdi. 👋
+## Hey, I'm Wajdi. 👋
 **`(Electro)Chemical Engineer | Materials Scientist`**
 
 - 🔭 I’m currently working on ...
