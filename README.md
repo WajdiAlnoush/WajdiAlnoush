@@ -42,7 +42,7 @@
   ## Skills & Tools
 
 
-  ## Recent Publication [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ)
+  ## Recent Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ)
   
   <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
