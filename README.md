@@ -49,7 +49,7 @@
 
 ### Mitigating cobalt nanoparticles in pyrolyzed Co-ZIF-derived oxygen reduction reaction electrocatalysts in alkaline media
 
-<u>Wajdi Alnoush</u>, Navid Noor, Ahmed Abdellah, Shunquan Tan, Shayan Angizi, Drew Higgins
+<ins>Wajdi Alnoush</ins>, Navid Noor, Ahmed Abdellah, Shunquan Tan, Shayan Angizi, Drew Higgins
 
 *Applied Catalysis B: Environment and Energy*, 2026
 
@@ -59,7 +59,7 @@
 
 ### Defective ceria as a structural and electronic modifier of nitrogen-doped carbon and cobalt–nitrogen–carbon electrocatalysts for oxygen reduction in alkaline electrolyte
 
-<u>Wajdi Alnoush</u>, Navid Noor, Shayan Angizi, Amirhossein Rakhsha, Thomas Baker, Drew Higgins
+<ins>Wajdi Alnoush</ins>, Navid Noor, Shayan Angizi, Amirhossein Rakhsha, Thomas Baker, Drew Higgins
 
 *Journal of Materials Chemistry A*, 2026
 
@@ -69,7 +69,7 @@
 
 ### Boosting Electrochemical Conversion of CO<sub>2</sub> to CO in a Membrane Electrode Assembly Using Nickel–Nitrogen/Carbon Supported Nickel–Zinc Carbide Particle Catalyst
 
-Fatma Ismail, <u>Wajdi Alnoush</u>, Ahmed Abdellah, Shunquan Tan, Kholoud E. Salem, Amirhossein Rakhsha, Navid Noor, Michael Fefer, Yuichi Terazono, Ning Chen, Drew C. Higgins
+Fatma Ismail, <ins>Wajdi Alnoush</ins>, Ahmed Abdellah, Shunquan Tan, Kholoud E. Salem, Amirhossein Rakhsha, Navid Noor, Michael Fefer, Yuichi Terazono, Ning Chen, Drew C. Higgins
 
 *ACS Electrochemistry*, 2025
 
