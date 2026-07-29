@@ -2,17 +2,10 @@ import requests
 from urllib.parse import quote
 
 ORCID = "0000-0002-6089-032X"
-
-HEADERS = {
-    "Accept": "application/json"
-}
-
+HEADERS = {"Accept": "application/json"}
 
 def highlight_me(name):
-    """
-    Underline my name regardless of formatting.
-    """
-
+    """Underline my name regardless of formatting."""
     normalized = (
         name.lower()
             .replace(".", "")
@@ -68,11 +61,6 @@ for paper in latest:
 
     scholar = ("https://scholar.google.com/scholar?q=" + quote(paper["title"]))
 
-    publisher = (
-        f"https://doi.org/{paper['doi']}"
-        if paper["doi"] else ""
-    )
-
     if paper["doi"]:
         content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n"
     else:
@@ -90,11 +78,11 @@ for paper in latest:
             display_authors.append("*et al.*")
 
         content += ", ".join(display_authors)
-        content += ""
+        content += "\n"
 
     # Journal + Year
     if paper["journal"]:
-        content += f"\n*{paper['journal']}*, {paper['year']}\n\n"
+        content += f"*{paper['journal']}*, {paper['year']}\n\n"
    
     # Links
     # Links (icons only)
@@ -104,26 +92,23 @@ for paper in latest:
     icons.append(
         f'<a href="{scholar}">'
         '<img src="https://cdn.simpleicons.org/googlescholar/white" '
-        'width="22" height="22"></a>')
+        'width="21" height="21"></a>')
     
     if paper["doi"]:
         icons.append(
             f'<a href="https://doi.org/{paper["doi"]}">'
             '<img src="https://cdn.simpleicons.org/adobeacrobatreader/white" '
-            'width="22" height="22"></a>')
+            'width="21" height="21"></a>')
     
-    content += "\n&nbsp;&nbsp;&nbsp;".join(icons)
+    content += "&nbsp;&nbsp;&nbsp;".join(icons)
     #links = []
     # if paper["doi"]:
     #     links.append(f"[📄 DOI](https://doi.org/{paper['doi']})")
-
     # links.append(f"[🎓 Google Scholar]({scholar})")
-
     # if publisher:
     #     links.append(f"[🌐 Publisher]({publisher})")
 
     # content += " • ".join(links)
-
 
     content += "\n<br>\n"
 
@@ -133,7 +118,6 @@ for paper in latest:
 # -----------------------------
 
 with open("README.md", "r", encoding="utf-8") as f:
-
     readme = f.read()
 
 START = "<!-- PUBLICATIONS:START -->"
