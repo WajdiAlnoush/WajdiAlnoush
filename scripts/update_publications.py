@@ -71,26 +71,24 @@ for work in works:
 papers.sort(key=lambda p: p["year"], reverse=True)
 latest = papers[:3]
 
-
 # -----------------------------
 # Build README content
 # -----------------------------
 
 content = ""
-
 for paper in latest:
 
-    scholar = (
-        "https://scholar.google.com/scholar?q="
-        + quote(paper["title"])
-    )
+    scholar = ("https://scholar.google.com/scholar?q=" + quote(paper["title"]))
 
     publisher = (
         f"https://doi.org/{paper['doi']}"
         if paper["doi"] else ""
     )
 
-    content += f"### {paper['title']}\n\n"
+    if paper["doi"]:
+        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n\n"
+    else:
+        content += f"### {paper['title']}\n\n"
 
     # Authors
     if paper["authors"]:
@@ -111,18 +109,36 @@ for paper in latest:
     # Journal + Year
     if paper["journal"]:
         content += f"*{paper['journal']}*, {paper['year']}\n\n"
+   
     # Links
-    links = []
+    # Links (icons only)
 
+    icons = []
+    
+    icons.append(
+        f'<a href="{scholar}">'
+        '<img src="https://cdn.simpleicons.org/googlescholar/white" '
+        'width="22" height="22"></a>')
+    
     if paper["doi"]:
-        links.append(f"[📄 DOI](https://doi.org/{paper['doi']})")
+        icons.append(
+            f'<a href="https://doi.org/{paper["doi"]}">'
+            '<img src="https://cdn.simpleicons.org/adobeacrobatreader/white" '
+            'width="22" height="22"></a>')
+    
+    content += "&nbsp;&nbsp;&nbsp;".join(icons)
+    #links = []
+    # if paper["doi"]:
+    #     links.append(f"[📄 DOI](https://doi.org/{paper['doi']})")
 
-    links.append(f"[🎓 Google Scholar]({scholar})")
+    # links.append(f"[🎓 Google Scholar]({scholar})")
 
-    if publisher:
-        links.append(f"[🌐 Publisher]({publisher})")
+    # if publisher:
+    #     links.append(f"[🌐 Publisher]({publisher})")
 
-    content += " • ".join(links)
+    # content += " • ".join(links)
+
+    
     content += "\n\n---\n\n"
 
 
