@@ -104,11 +104,11 @@ for paper in latest:
             display_authors.append("*et al.*")
 
         content += ", ".join(display_authors)
-        content += "\n\n"
+        content += "\n"
 
     # Journal + Year
     if paper["journal"]:
-        content += f"*{paper['journal']}*, {paper['year']}\n\n"
+        content += f"*{paper['journal']}*, {paper['year']}\n"
    
     # Links
     # Links (icons only)
@@ -139,7 +139,7 @@ for paper in latest:
     # content += " • ".join(links)
 
 
-    content += "\n\n<br><br>\n\n"
+    content += "\n<br><br>\n\n"
 
 
 # -----------------------------
