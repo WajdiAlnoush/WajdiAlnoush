@@ -43,19 +43,15 @@
 
 
   ## Recent Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ)
+  
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ)
+  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6089-032X)
+
+<!-- PUBLICATIONS:START -->
   <!-- PUBLICATIONS:START -->
   Loading latest publications...
   <!-- PUBLICATIONS:END -->
   
-  <p align="left">
-    <a href="https://orcid.org/0000-0002-6089-032X">
-      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white">
-    </a>
-    <a href="https://scholar.google.com/citations?user=8_BLOckAAAAJ">
-      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white">
-    </a>
-  </p>
-  <!--
 **WajdiAlnoush/WajdiAlnoush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
