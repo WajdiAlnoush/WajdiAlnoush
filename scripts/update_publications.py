@@ -23,9 +23,8 @@ def highlight_me(name):
     if "alnoush" in normalized:
         #return f"<u>{name}</u>"
         return f"<ins>{name}</ins>"
-
+        #return f"**{name}**" #to make my name bold instead
     return name
-
 
 # -----------------------------
 # Retrieve publications from ORCID
