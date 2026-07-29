@@ -112,7 +112,7 @@ for paper in latest:
             '<img src="https://cdn.simpleicons.org/adobeacrobatreader/white" '
             'width="22" height="22"></a>')
     
-    content += "&nbsp;&nbsp;&nbsp;".join(icons)
+    content += "\n&nbsp;&nbsp;&nbsp;".join(icons)
     #links = []
     # if paper["doi"]:
     #     links.append(f"[📄 DOI](https://doi.org/{paper['doi']})")
