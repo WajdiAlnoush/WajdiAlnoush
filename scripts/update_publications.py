@@ -30,59 +30,29 @@ def highlight_me(name):
 # Retrieve publications from ORCID
 # -----------------------------
 
-works = requests.get(
-    f"https://pub.orcid.org/v3.0/{ORCID}/works",
-    headers=HEADERS
-).json()["group"]
+works = requests.get(f"https://pub.orcid.org/v3.0/{ORCID}/works", headers=HEADERS).json()["group"]
 
 papers = []
 
 for work in works:
-
     summary = work["work-summary"][0]
-
     put_code = summary["put-code"]
-
-    paper = requests.get(
-        f"https://pub.orcid.org/v3.0/{ORCID}/work/{put_code}",
-        headers=HEADERS
-    ).json()
-
-    title = (
-        paper.get("title", {})
-             .get("title", {})
-             .get("value", "Untitled")
-    )
-
-    journal = (
-        paper.get("journal-title", {})
-             .get("value", "")
-    )
-
-    year = (
-        paper.get("publication-date", {})
-             .get("year", {})
-             .get("value", "")
-    )
-
+    paper = requests.get(f"https://pub.orcid.org/v3.0/{ORCID}/work/{put_code}",headers=HEADERS).json()
+    title = (paper.get("title", {}).get("title", {}).get("value", "Untitled"))
+    journal = (paper.get("journal-title", {}).get("value", ""))
+    year = (paper.get("publication-date", {}).get("year", {}).get("value", ""))
     doi = ""
 
     for ext in paper.get("external-ids", {}).get("external-id", []):
-
         if ext.get("external-id-type", "").lower() == "doi":
-
             doi = ext.get("external-id-value", "")
-
             break
 
     authors = []
 
     for contributor in paper.get("contributors", {}).get("contributor", []):
-
         credit_name = contributor.get("credit-name")
-
         if credit_name and "value" in credit_name:
-
             authors.append(credit_name["value"])
 
     papers.append({
@@ -99,7 +69,6 @@ for work in works:
 # -----------------------------
 
 papers.sort(key=lambda p: p["year"], reverse=True)
-
 latest = papers[:3]
 
 
@@ -141,9 +110,7 @@ for paper in latest:
 
     # Journal + Year
     if paper["journal"]:
-
         content += f"*{paper['journal']}*, {paper['year']}\n\n"
-
     # Links
     links = []
 
@@ -156,7 +123,6 @@ for paper in latest:
         links.append(f"[🌐 Publisher]({publisher})")
 
     content += " • ".join(links)
-
     content += "\n\n---\n\n"
 
 
