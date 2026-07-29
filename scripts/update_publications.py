@@ -1,12 +1,13 @@
 import requests
+from urllib.parse import quote
 
 ORCID = "0000-0002-6089-032X"
-
-url = f"https://pub.orcid.org/v3.0/{ORCID}/works"
 
 headers = {
     "Accept": "application/json"
 }
+
+url = f"https://pub.orcid.org/v3.0/{ORCID}/works"
 
 works = requests.get(url, headers=headers).json()["group"]
 
@@ -16,53 +17,84 @@ for work in works:
 
     summary = work["work-summary"][0]
 
-    title = summary["title"]["title"]["value"]
-
-    year = summary.get("publication-date", {}).get("year", {}).get("value", "")
-
     put_code = summary["put-code"]
 
     paper = requests.get(
         f"https://pub.orcid.org/v3.0/{ORCID}/work/{put_code}",
-        headers=headers
+        headers=headers,
     ).json()
+
+    title = (
+        paper.get("title", {})
+             .get("title", {})
+             .get("value", "Untitled")
+    )
+
+    year = (
+        paper.get("publication-date", {})
+             .get("year", {})
+             .get("value", "")
+    )
+
+    journal = (
+        paper.get("journal-title", {})
+             .get("value", "")
+    )
 
     doi = ""
 
-    if "external-ids" in paper:
+    for ext in paper.get("external-ids", {}).get("external-id", []):
+        if ext.get("external-id-type", "").lower() == "doi":
+            doi = ext.get("external-id-value", "")
+            break
 
-        for ext in paper["external-ids"]["external-id"]:
+    papers.append({
+        "title": title,
+        "journal": journal,
+        "year": int(year) if year.isdigit() else 0,
+        "doi": doi,
+    })
 
-            if ext["external-id-type"].lower() == "doi":
-
-                doi = ext["external-id-value"]
-
-    papers.append((year, title, doi))
-
-papers.sort(reverse=True)
+papers.sort(key=lambda p: p["year"], reverse=True)
 
 latest = papers[:3]
 
-with open("README.md") as f:
+content = ""
+
+for paper in latest:
+
+    scholar = (
+        "https://scholar.google.com/scholar?q="
+        + quote(paper["title"])
+    )
+
+    content += f"### {paper['year']}\n"
+    content += f"**{paper['title']}**\n\n"
+
+    if paper["journal"]:
+        content += f"*{paper['journal']}*\n\n"
+
+    links = []
+
+    if paper["doi"]:
+        links.append(f"[📄 DOI](https://doi.org/{paper['doi']})")
+
+    links.append(f"[🎓 Google Scholar]({scholar})")
+
+    content += " • ".join(links)
+
+    content += "\n\n---\n\n"
+
+with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
 start = "<!-- PUBLICATIONS:START -->"
 end = "<!-- PUBLICATIONS:END -->"
 
-content = ""
-
-for year, title, doi in latest:
-
-    if doi:
-        content += f"- **{title}** ({year})  \n"
-        content += f"  https://doi.org/{doi}\n\n"
-    else:
-        content += f"- **{title}** ({year})\n\n"
-
 before = readme.split(start)[0]
 after = readme.split(end)[1]
 
-new_readme = before + start + "\n" + content + end + after
+new_readme = before + start + "\n\n" + content + end + after
 
-with open("README.md","w") as f:
+with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_readme)
