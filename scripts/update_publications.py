@@ -138,10 +138,8 @@ for paper in latest:
 
     # content += " • ".join(links)
 
-    
-    #content += "\n\n---\n\n"
-    content += "\n\n····························\\n\n"
-    #content += "\n\n<br><br>\n\n"
+
+    content += "\n\n<br><br>\n\n"
 
 
 # -----------------------------
