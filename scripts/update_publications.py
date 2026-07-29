@@ -21,7 +21,8 @@ def highlight_me(name):
     )
 
     if "alnoush" in normalized:
-        return f"<u>{name}</u>"
+        #return f"<u>{name}</u>"
+        return f"<ins>{name}</ins>"
 
     return name
 
