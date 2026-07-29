@@ -74,9 +74,9 @@ for paper in latest:
     )
 
     if paper["doi"]:
-        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n\n"
+        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n"
     else:
-        content += f"### {paper['title']}\n\n"
+        content += f"### {paper['title']}\n"
 
     # Authors
     if paper["authors"]:
@@ -125,7 +125,7 @@ for paper in latest:
     # content += " • ".join(links)
 
 
-    content += "\n<br><br>\n"
+    content += "\n<br>\n"
 
 
 # -----------------------------
