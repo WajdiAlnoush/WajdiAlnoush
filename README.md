@@ -1,5 +1,5 @@
 ## Hey, I'm Wajdi. 👋
-**`(Electro)Chemical Engineer | Materials Scientist`**
+**` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials`**
 
 - 🔭 I’m currently working on ...
 
