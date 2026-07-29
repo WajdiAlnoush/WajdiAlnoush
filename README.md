@@ -47,30 +47,33 @@
 
 <!-- PUBLICATIONS:START -->
 
-### 2026
-**Mitigating cobalt nanoparticles in pyrolyzed Co-ZIF-derived oxygen reduction reaction electrocatalysts in alkaline media**
+### Mitigating cobalt nanoparticles in pyrolyzed Co-ZIF-derived oxygen reduction reaction electrocatalysts in alkaline media
 
-*Applied Catalysis B: Environment and Energy*
+<u>Wajdi Alnoush</u>, Navid Noor, Ahmed Abdellah, Shunquan Tan, Shayan Angizi, Drew Higgins
 
-[📄 DOI](https://doi.org/10.1016/j.apcatb.2025.126121) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Mitigating%20cobalt%20nanoparticles%20in%20pyrolyzed%20Co-ZIF-derived%20oxygen%20reduction%20reaction%20electrocatalysts%20in%20alkaline%20media)
+*Applied Catalysis B: Environment and Energy*, 2026
 
----
-
-### 2026
-**Defective ceria as a structural and electronic modifier of nitrogen-doped carbon and cobalt–nitrogen–carbon electrocatalysts for oxygen reduction in alkaline electrolyte**
-
-*Journal of Materials Chemistry A*
-
-[📄 DOI](https://doi.org/10.1039/D6TA01057A) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Defective%20ceria%20as%20a%20structural%20and%20electronic%20modifier%20of%20nitrogen-doped%20carbon%20and%20cobalt%E2%80%93nitrogen%E2%80%93carbon%20electrocatalysts%20for%20oxygen%20reduction%20in%20alkaline%20electrolyte)
+[📄 DOI](https://doi.org/10.1016/j.apcatb.2025.126121) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Mitigating%20cobalt%20nanoparticles%20in%20pyrolyzed%20Co-ZIF-derived%20oxygen%20reduction%20reaction%20electrocatalysts%20in%20alkaline%20media) • [🌐 Publisher](https://doi.org/10.1016/j.apcatb.2025.126121)
 
 ---
 
-### 2025
-**Boosting Electrochemical Conversion of CO<sub>2</sub> to CO in a Membrane Electrode Assembly Using Nickel–Nitrogen/Carbon Supported Nickel–Zinc Carbide Particle Catalyst**
+### Defective ceria as a structural and electronic modifier of nitrogen-doped carbon and cobalt–nitrogen–carbon electrocatalysts for oxygen reduction in alkaline electrolyte
 
-*ACS Electrochemistry*
+<u>Wajdi Alnoush</u>, Navid Noor, Shayan Angizi, Amirhossein Rakhsha, Thomas Baker, Drew Higgins
 
-[📄 DOI](https://doi.org/10.1021/acselectrochem.5c00006) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Boosting%20Electrochemical%20Conversion%20of%20CO%3Csub%3E2%3C/sub%3E%20to%20CO%20in%20a%20Membrane%20Electrode%20Assembly%20Using%20Nickel%E2%80%93Nitrogen/Carbon%20Supported%20Nickel%E2%80%93Zinc%20Carbide%20Particle%20Catalyst)
+*Journal of Materials Chemistry A*, 2026
+
+[📄 DOI](https://doi.org/10.1039/D6TA01057A) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Defective%20ceria%20as%20a%20structural%20and%20electronic%20modifier%20of%20nitrogen-doped%20carbon%20and%20cobalt%E2%80%93nitrogen%E2%80%93carbon%20electrocatalysts%20for%20oxygen%20reduction%20in%20alkaline%20electrolyte) • [🌐 Publisher](https://doi.org/10.1039/D6TA01057A)
+
+---
+
+### Boosting Electrochemical Conversion of CO<sub>2</sub> to CO in a Membrane Electrode Assembly Using Nickel–Nitrogen/Carbon Supported Nickel–Zinc Carbide Particle Catalyst
+
+Fatma Ismail, <u>Wajdi Alnoush</u>, Ahmed Abdellah, Shunquan Tan, Kholoud E. Salem, Amirhossein Rakhsha, Navid Noor, Michael Fefer, Yuichi Terazono, Ning Chen, Drew C. Higgins
+
+*ACS Electrochemistry*, 2025
+
+[📄 DOI](https://doi.org/10.1021/acselectrochem.5c00006) • [🎓 Google Scholar](https://scholar.google.com/scholar?q=Boosting%20Electrochemical%20Conversion%20of%20CO%3Csub%3E2%3C/sub%3E%20to%20CO%20in%20a%20Membrane%20Electrode%20Assembly%20Using%20Nickel%E2%80%93Nitrogen/Carbon%20Supported%20Nickel%E2%80%93Zinc%20Carbide%20Particle%20Catalyst) • [🌐 Publisher](https://doi.org/10.1021/acselectrochem.5c00006)
 
 ---
 
