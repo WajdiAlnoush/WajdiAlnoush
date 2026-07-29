@@ -108,7 +108,7 @@ for paper in latest:
 
     # Journal + Year
     if paper["journal"]:
-        content += f"*{paper['journal']}*, {paper['year']}\n"
+        content += f"*{paper['journal']}*, {paper['year']}\n\n"
    
     # Links
     # Links (icons only)
@@ -139,7 +139,7 @@ for paper in latest:
     # content += " • ".join(links)
 
 
-    content += "\n<br><br>\n\n"
+    content += "\n<br><br>\n"
 
 
 # -----------------------------
