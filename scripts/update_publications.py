@@ -29,11 +29,9 @@ def highlight_me(name):
 # -----------------------------
 # Retrieve publications from ORCID
 # -----------------------------
-
 works = requests.get(f"https://pub.orcid.org/v3.0/{ORCID}/works", headers=HEADERS).json()["group"]
 
 papers = []
-
 for work in works:
     summary = work["work-summary"][0]
     put_code = summary["put-code"]
@@ -49,32 +47,22 @@ for work in works:
             break
 
     authors = []
-
     for contributor in paper.get("contributors", {}).get("contributor", []):
         credit_name = contributor.get("credit-name")
         if credit_name and "value" in credit_name:
             authors.append(credit_name["value"])
 
-    papers.append({
-        "title": title,
-        "journal": journal,
-        "year": int(year) if year.isdigit() else 0,
-        "doi": doi,
-        "authors": authors
-    })
-
+    papers.append({"title": title, "journal": journal, "year": int(year) if year.isdigit() else 0, "doi": doi, "authors": authors})
 
 # -----------------------------
 # Sort newest first
 # -----------------------------
-
 papers.sort(key=lambda p: p["year"], reverse=True)
 latest = papers[:3]
 
 # -----------------------------
 # Build README content
 # -----------------------------
-
 content = ""
 for paper in latest:
 
@@ -92,14 +80,12 @@ for paper in latest:
 
     # Authors
     if paper["authors"]:
-
         display_authors = [
             highlight_me(a)
             for a in paper["authors"]
         ]
 
         if len(display_authors) > 12:
-
             display_authors = display_authors[:12]
             display_authors.append("*et al.*")
 
@@ -108,7 +94,7 @@ for paper in latest:
 
     # Journal + Year
     if paper["journal"]:
-        content += f"*{paper['journal']}*, {paper['year']}\n\n"
+        content += f"\n*{paper['journal']}*, {paper['year']}\n\n"
    
     # Links
     # Links (icons only)
