@@ -30,14 +30,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png"
          alt="EndNote"
          width="34"/> </a>
-  <!-- Microsoft Word -->
-  <a href="https://www.microsoft.com/microsoft-365/word"> <img src="https://cdn.simpleicons.org/microsoftword"
+<!-- Word -->
+<a href="https://www.microsoft.com/microsoft-365/word">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg"
        width="34"/> </a>
-  <!-- Microsoft Excel -->
-  <a href="https://www.microsoft.com/microsoft-365/excel"> <img src="https://cdn.simpleicons.org/microsoftexcel"
+<!-- Excel -->
+<a href="https://www.microsoft.com/microsoft-365/excel">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"
        width="34"/> </a>
-  <!-- Microsoft PowerPoint -->
-  <a href="https://www.microsoft.com/microsoft-365/powerpoint"> <img src="https://cdn.simpleicons.org/microsoftpowerpoint"
+<!-- PowerPoint -->
+<a href="https://www.microsoft.com/microsoft-365/powerpoint">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg"
        width="34"/> </a>
   
   <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit"
