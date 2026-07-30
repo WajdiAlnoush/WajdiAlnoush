@@ -29,22 +29,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png"
          alt="EndNote"
          width="34"/> </a>
-<!-- Word -->
+ <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clipboard/3D/clipboard_3d.png" 
-    width="34"> </a>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clipboard/3D/clipboard_3d.png" width="34">
+</a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"
-       width="34"/> </a>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="34">
+</a>
 <!-- PowerPoint -->
 <a href="https://www.microsoft.com/microsoft-365/powerpoint">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg"
-       width="34"/> </a>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slide%20show/3D/slide_show_3d.png" width="34">
+</a>
   
-  <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit"
-       alt="Streamlit"
-       width="34"/> </a>
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
@@ -56,15 +54,12 @@
   - 🔭 P1 ...
   - 🔭 P2 ...
   - 🔭 P3 ...
-  - 
+    
   ## Skills & Tools
-
 
   ## Recent Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6089-032X)
   
-
 <!-- PUBLICATIONS:START -->
-
 ### [Mitigating cobalt nanoparticles in pyrolyzed Co-ZIF-derived oxygen reduction reaction electrocatalysts in alkaline media](https://doi.org/10.1016/j.apcatb.2025.126121)
 <ins>Wajdi Alnoush</ins>, Navid Noor, Ahmed Abdellah, Shunquan Tan, Shayan Angizi, Drew Higgins<br>*Applied Catalysis B: Environment and Energy*, 2026
 
