@@ -40,8 +40,8 @@
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
-  - Designing operando X-ray absorption spectroscopy (XAS) reactors.
-  - Building Python tools for electrochemical data analysis.
+  - Operando characterization.
+  - Building Python & MATLAB tools for electrochemical data analysis.
   - Scientific visualization and automation for research workflows.
 
   ## Side Projects 
