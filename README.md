@@ -16,7 +16,6 @@
 <h4 align="left">I make scientific graphics & schematics with:</h3>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
-<a href="https://www.originlab.com/" target="_blank" rel="noreferrer"> <img src="https://logo.clearbit.com/originlab.com" alt="originpro" width="30" height="30"/> </a>
 <a href="https://matplotlib.org"><img src="https://cdn.simpleicons.org/matplotlib" width="34"/></a>
 <a href="https://www.originlab.com/" target="_blank">
   <img src="https://www.originlab.com/favicon.ico"
@@ -32,8 +31,8 @@
          width="34"/> </a>
 <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg"
-       width="34"/> </a>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clipboard/3D/clipboard_3d.png" 
+    width="34"> </a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"
