@@ -56,9 +56,9 @@ content = ""
 for paper in latest:
     scholar = ("https://scholar.google.com/scholar?q=" + quote(paper["title"]))
     if paper["doi"]:
-        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})"
+        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n"
     else:
-        content += f"### {paper['title']}"
+        content += f"### {paper['title']}\n"
 
     # Authors
     if paper["authors"]:
@@ -72,7 +72,7 @@ for paper in latest:
             display_authors.append("*et al.*")
 
         content += ", ".join(display_authors)
-        content += "\n<br>"
+        content += "<br>"
 
     # Journal + Year
     if paper["journal"]:
