@@ -27,7 +27,8 @@
 
 <!-- EndNote -->
 <a href="https://endnote.com/" target="_blank">
-  <img src="https://img.shields.io/badge/EndNote-1E69A2?style=for-the-badge&logo=endnote&logoColor=white" alt="EndNote" width="34"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png" alt="EndNote" height="34"/>
+</a>
 <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" width="34"/> </a>
