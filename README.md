@@ -31,15 +31,15 @@
          width="34"/> </a>
  <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clipboard/3D/clipboard_3d.png" width="34">
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="34">
 </a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="34">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="34">
 </a>
 <!-- PowerPoint -->
 <a href="https://www.microsoft.com/microsoft-365/powerpoint">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slide%20show/3D/slide_show_3d.png" width="34">
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="34">
 </a>
   
   <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
