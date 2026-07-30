@@ -7,11 +7,7 @@ HEADERS = {"Accept": "application/json"}
 def highlight_me(name):
     """Underline my name regardless of formatting."""
     normalized = (
-        name.lower()
-            .replace(".", "")
-            .replace(",", "")
-            .strip()
-    )
+        name.lower().replace(".", "").replace(",", "").strip())
 
     if "alnoush" in normalized:
         #return f"<u>{name}</u>"
@@ -58,13 +54,11 @@ latest = papers[:3]
 # -----------------------------
 content = ""
 for paper in latest:
-
     scholar = ("https://scholar.google.com/scholar?q=" + quote(paper["title"]))
-
     if paper["doi"]:
-        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})\n"
+        content += f"### [{paper['title']}](https://doi.org/{paper['doi']})"
     else:
-        content += f"### {paper['title']}\n"
+        content += f"### {paper['title']}"
 
     # Authors
     if paper["authors"]:
