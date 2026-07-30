@@ -39,7 +39,7 @@
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
   ## 🔬 Current Focus
-  - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
+  - Developing PGM-free electrocatalysts for O₂ reduction and CO₂ reduction.
   - Operando characterization.
   - Building Python & MATLAB tools for electrochemical data analysis.
   - Scientific visualization and automation for research workflows.
