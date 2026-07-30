@@ -6,7 +6,8 @@
 
 <h4 align="left">I code and analyze data using:</h3>
 
-<p align="left">  
+<p align="left">
+<div style="display: inline-block; text-decoration: none;">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://jupyter.org" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="34"/></a>
