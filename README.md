@@ -1,16 +1,24 @@
 ## Hey, I'm Wajdi. 👋
-**` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials`**
+**` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | Catalysis`**
 
 - 🔭 I’m currently working on ...
 
 
 <h4 align="left">I code and analyze data using:</h3>
 
-<p align="left">  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+<p align="left">  
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
+<a href="https://jupyter.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="34"/></a>
+<a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="34"/></a>
+</p>
 
 <h4 align="left">I make scientific graphics & schematics with:</h3>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 <a href="https://www.originlab.com/" target="_blank" rel="noreferrer"> <img src="https://logo.clearbit.com/originlab.com" alt="originpro" width="30" height="30"/> </a>
+<a href="https://matplotlib.org"><img src="https://cdn.simpleicons.org/matplotlib" width="34"/></a>
+<a href="https://www.originlab.com"><img src="https://logo.clearbit.com/originlab.com" width="34"/></a>
 
 
 <h4 align="left">Other tools in my arsenal:</h3>
@@ -30,9 +38,11 @@
     <img src="https://cdn.simpleicons.org/microsoftpowerpoint" alt="powerpoint" width="30" height="30"/>
   </a>
 
-  ## Projects & Interests
-
-🔭 I’m currently working on ...
+  ## 🔬 Current Focus
+  - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
+  - Designing operando X-ray absorption spectroscopy (XAS) reactors.
+  - Building Python tools for electrochemical data analysis.
+  - Scientific visualization and automation for research workflows.
 
   ## Side Projects 
   - 🔭 P1 ...
