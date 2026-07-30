@@ -29,17 +29,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png"
          alt="EndNote"
          width="34"/> </a>
- <!-- Word -->
+<!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="34">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftword.svg" width="34">
 </a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="34">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftexcel.svg" width="34">
 </a>
 <!-- PowerPoint -->
 <a href="https://www.microsoft.com/microsoft-365/powerpoint">
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="34">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftpowerpoint.svg" width="34">
 </a>
   
   <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
