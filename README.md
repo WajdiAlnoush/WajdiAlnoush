@@ -31,7 +31,7 @@
          width="34"/> </a>
 <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftword.svg" width="34">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clipboard/3D/clipboard_3d.png" width="34">
 </a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel">
