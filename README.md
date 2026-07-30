@@ -18,25 +18,31 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
 <a href="https://www.originlab.com/" target="_blank" rel="noreferrer"> <img src="https://logo.clearbit.com/originlab.com" alt="originpro" width="30" height="30"/> </a>
 <a href="https://matplotlib.org"><img src="https://cdn.simpleicons.org/matplotlib" width="34"/></a>
-<a href="https://www.originlab.com"><img src="https://logo.clearbit.com/originlab.com" width="34"/></a>
+<a href="https://www.originlab.com/" target="_blank">
+  <img src="https://www.originlab.com/favicon.ico"
+       alt="OriginPro"
+       width="34"/></a>
 
 
 <h4 align="left">Other tools in my arsenal:</h3>
 
+  <a href="https://endnote.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png"
+         alt="EndNote"
+         width="34"/> </a>
   <!-- Microsoft Word -->
-  <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftword" alt="word" width="30" height="30"/>
-  </a>
-
+  <a href="https://www.microsoft.com/microsoft-365/word"> <img src="https://cdn.simpleicons.org/microsoftword"
+       width="34"/> </a>
   <!-- Microsoft Excel -->
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" width="30" height="30"/>
-  </a>
-
+  <a href="https://www.microsoft.com/microsoft-365/excel"> <img src="https://cdn.simpleicons.org/microsoftexcel"
+       width="34"/> </a>
   <!-- Microsoft PowerPoint -->
-  <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftpowerpoint" alt="powerpoint" width="30" height="30"/>
-  </a>
+  <a href="https://www.microsoft.com/microsoft-365/powerpoint"> <img src="https://cdn.simpleicons.org/microsoftpowerpoint"
+       width="34"/> </a>
+  
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit"
+       alt="Streamlit"
+       width="34"/> </a>
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
