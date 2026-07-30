@@ -78,7 +78,7 @@ for paper in latest:
             display_authors.append("*et al.*")
 
         content += ", ".join(display_authors)
-        content += "\n"
+        content += "\n<br>"
 
     # Journal + Year
     if paper["journal"]:
