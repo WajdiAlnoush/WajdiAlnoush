@@ -31,7 +31,8 @@
 </a>
 <!-- Word -->
 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word" width="34"/> </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftword.svg" alt="Word" height="34"/>
+</a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" width="34"/> </a>
