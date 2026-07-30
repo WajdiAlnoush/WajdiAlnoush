@@ -36,9 +36,9 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" width="38"/> </a>
 <!-- PowerPoint -->
 <a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" width="38"/> </a>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" width="42"/> </a>
   
-  <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
+<a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for oxygen reduction and CO₂ reduction.
