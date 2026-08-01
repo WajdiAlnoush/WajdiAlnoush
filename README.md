@@ -22,6 +22,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://jupyter.org" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="34"/></a>
 
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="34"/></a>
+
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" width="34"/></a>
+
 
 <h4 align="left">I make scientific graphics & schematics with:</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a>
