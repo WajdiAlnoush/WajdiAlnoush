@@ -30,7 +30,7 @@
 <a href="https://www.originlab.com/" target="_blank"> <img src="https://www.originlab.com/favicon.ico" alt="OriginPro" height="30"/></a>
 
 
-<h4 align="left">Other tools in my arsenal:</h3>
+<h4 align="left">Other tools in my arsenal:</h4>
 <!-- EndNote -->
 <a href="https://endnote.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png" alt="EndNote" height="34"/> </a>
@@ -46,10 +46,8 @@
   
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
-
-<!-- Excel -->
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019-present.svg" width="34"/>
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
+  <img src="https://cdn.simpleicons.org/microsoftword" alt="Word" width="34"/>
 </a>
 
   ## 🔬 Current Focus
