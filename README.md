@@ -18,16 +18,16 @@
 <h4 align="left">I code and analyze data using:</h3>
 
 <p align="left">
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-block; text-decoration: none; border-bottom: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://jupyter.org" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="34"/></a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="display: inline-block; text-decoration: none; border-bottom: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="30"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/> </a> 
+<a href="https://jupyter.org" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="30"/></a>
 
 
 <h4 align="left">I make scientific graphics & schematics with:</h3>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="32"/> </a>
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="32"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="32"/> </a> 
-<a href="https://www.originlab.com/" target="_blank"> <img src="https://www.originlab.com/favicon.ico" alt="OriginPro" height="32"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="30"/> </a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="30"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="30"/> </a> 
+<a href="https://www.originlab.com/" target="_blank"> <img src="https://www.originlab.com/favicon.ico" alt="OriginPro" height="30"/></a>
 
 
 <h4 align="left">Other tools in my arsenal:</h3>
