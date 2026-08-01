@@ -2,6 +2,17 @@
 **` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | Catalysis`**
 
 - 🔭 I’m currently working on ...
+- Catalysis and clean/sustainable fuel 
+- Electrochemical systems
+- Nanomaterials in electrochemistry
+- Electrochemical energy conversion and storage (Experimental and theoretical aspects of electrochemistry in which the goal is the interconversion of energy between different forms or the storage of energy, including the processes themselves and materials used for these purposes) 
+- Electrochemical process engineering & technology 
+- Electrochemistry of functional material
+- Sustainability and green electrochemical science 
+- Study nanoscale phenomena in electrocatalysis
+- Energy conversion
+- Power-to-X
+- Low-carbon energy 
 
 
 <h4 align="left">I code and analyze data using:</h3>
@@ -39,8 +50,8 @@
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
   ## 🔬 Current Focus
-  - Developing PGM-free electrocatalysts for O₂ reduction and CO₂ reduction.
-  - Developing _In situ_/_Operando_ characterization.
+  - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
+  - Developing _In situ_/_Operando_ characterization tools.
   - Building Python & MATLAB tools for electrochemical data analysis.
   - Scientific visualization and automation for research workflows.
 
