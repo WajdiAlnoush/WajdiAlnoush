@@ -46,15 +46,11 @@
   
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
 
-<!-- Word -->
-<a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/Word/SVG/ic_fluent_document_24_regular.svg" alt="Word" width="34"/></a>
+
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/Excel/SVG/ic_fluent_table_24_regular.svg" alt="Excel" width="34"/></a>
-<!-- PowerPoint -->
-<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/PowerPoint/SVG/ic_fluent_presenter_24_regular.svg" alt="PowerPoint" width="34"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019-present.svg" width="34"/>
+</a>
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
