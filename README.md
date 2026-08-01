@@ -15,6 +15,18 @@
 - Low-carbon energy 
 
 
+  ## 🔬 Current Focus
+  - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
+  - Developing _In situ_/_Operando_ characterization tools.
+  - Building Python & MATLAB tools for electrochemical data analysis.
+  - Scientific visualization and automation for research workflows.
+
+  ## Side Projects 
+  - 🔭 P1 ...
+  - 🔭 P2 ...
+  - 🔭 P3 ...
+    
+  ## Skills & Tools
 <h4 align="left">I code and analyze data using:</h3>
 
 <p align="left">
@@ -50,18 +62,7 @@
   <img src="https://cdn.simpleicons.org/microsoftword" alt="Word" width="34"/>
 </a>
 
-  ## 🔬 Current Focus
-  - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
-  - Developing _In situ_/_Operando_ characterization tools.
-  - Building Python & MATLAB tools for electrochemical data analysis.
-  - Scientific visualization and automation for research workflows.
 
-  ## Side Projects 
-  - 🔭 P1 ...
-  - 🔭 P2 ...
-  - 🔭 P3 ...
-    
-  ## Skills & Tools
 
   ## Recent Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6089-032X)
   
