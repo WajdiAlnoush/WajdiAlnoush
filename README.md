@@ -40,7 +40,7 @@
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for O₂ reduction and CO₂ reduction.
-  - Operando characterization.
+  - Developing _In situ_/_Operando_ characterization.
   - Building Python & MATLAB tools for electrochemical data analysis.
   - Scientific visualization and automation for research workflows.
 
