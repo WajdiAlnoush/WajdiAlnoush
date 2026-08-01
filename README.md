@@ -31,7 +31,6 @@
 
 
 <h4 align="left">Other tools in my arsenal:</h3>
-
 <!-- EndNote -->
 <a href="https://endnote.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/EndNote_logo.png" alt="EndNote" height="34"/> </a>
@@ -46,6 +45,16 @@
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" width="42"/> </a>
   
 <a href="https://streamlit.io/" target="_blank"> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="34"/> </a>
+
+<!-- Word -->
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/Word/SVG/ic_fluent_document_24_regular.svg" alt="Word" width="34"/></a>
+<!-- Excel -->
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/Excel/SVG/ic_fluent_table_24_regular.svg" alt="Excel" width="34"/></a>
+<!-- PowerPoint -->
+<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-system-icons/assets/PowerPoint/SVG/ic_fluent_presenter_24_regular.svg" alt="PowerPoint" width="34"/></a>
 
   ## 🔬 Current Focus
   - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
