@@ -67,6 +67,7 @@
   ## Recent Publications [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8_BLOckAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6089-032X)
   
 <!-- PUBLICATIONS:START -->
+
 ### [Mitigating cobalt nanoparticles in pyrolyzed Co-ZIF-derived oxygen reduction reaction electrocatalysts in alkaline media](https://doi.org/10.1016/j.apcatb.2025.126121)
 <ins>Wajdi Alnoush</ins>, Navid Noor, Ahmed Abdellah, Shunquan Tan, Shayan Angizi, Drew Higgins<br>*Applied Catalysis B: Environment and Energy*, 2026
 
