@@ -12,7 +12,9 @@
 - Study nanoscale phenomena in electrocatalysis
 - Energy conversion
 - Power-to-X
-- Low-carbon energy 
+- Low-carbon energy
+- Electrocatalysis and Electrosynthesis
+- AI for Materials Science and Chemistry
 
 
 ## 🔬 Current Focus
