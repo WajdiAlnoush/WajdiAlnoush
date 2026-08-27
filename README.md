@@ -5,16 +5,16 @@ I currently work on ...
 
 <table>
   <tr>
-    <td>• Functional nanomaterials</td>
-    <td>• Nanoscale phenomena</td>
+    <td style="border: none; padding: 2px 30px 2px 0;>• Functional nanomaterials</td>
+    <td style="border: none; padding: 2px 0;>• Nanoscale phenomena</td>
   </tr>
   <tr>
-    <td>• (Electro)catalysis and Electrosynthesis</td>
-    <td>• High-throughput experimentation</td>
+    <td style="border: none; padding: 2px 30px 2px 0;>• (Electro)catalysis and Electrosynthesis</td>
+    <td style="border: none; padding: 2px 0;>• High-throughput experimentation</td>
   </tr>
   <tr>
-    <td>• Zero-emission energy conversion and storage systems</td>
-    <td>• AI/ML for materials science and chemistry</td>
+    <td style="border: none; padding: 2px 30px 2px 0;>• Zero-emission energy conversion and storage systems</td>
+    <td style="border: none; padding: 2px 0;>• AI/ML for materials science and chemistry</td>
   </tr>
 </table>
 
