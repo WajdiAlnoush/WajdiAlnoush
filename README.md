@@ -2,10 +2,21 @@
 **` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | CCUS`**
 
 I currently work on ...
-- Functional nanomaterials                               - Nanoscale phenomena 
-- (Electro)catalysis and Electrosynthesis                - High-throughput experimentation
-- Zero-emission energy conversion and storage systems    - AI/ML for materials science and chemistry
 
+<table>
+  <tr>
+    <td>• Functional nanomaterials</td>
+    <td>• Nanoscale phenomena</td>
+  </tr>
+  <tr>
+    <td>• (Electro)catalysis and Electrosynthesis</td>
+    <td>• High-throughput experimentation</td>
+  </tr>
+  <tr>
+    <td>• Zero-emission energy conversion and storage systems</td>
+    <td>• AI/ML for materials science and chemistry</td>
+  </tr>
+</table>
 
 
 ## 🔬 Current Focus
