@@ -1,13 +1,11 @@
 ## Hey, I'm Wajdi. 👋
 **` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | CCUS`**
 
-I currently working on ...
-- Functional nanomaterials 
-- (Electro)catalysis and Electrosynthesis
-- Zero-emission energy conversion and storage systems
-- Nanoscale phenomena 
-- High-throughput experimentation
-- AI/ML for materials science and chemistry
+I currently work on ...
+- Functional nanomaterials                               - Nanoscale phenomena 
+- (Electro)catalysis and Electrosynthesis                - High-throughput experimentation
+- Zero-emission energy conversion and storage systems    - AI/ML for materials science and chemistry
+
 
 
 ## 🔬 Current Focus
