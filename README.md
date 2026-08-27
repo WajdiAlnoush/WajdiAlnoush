@@ -1,29 +1,30 @@
 ## Hey, I'm Wajdi. 👋
 **` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | CCUS`**
 
-I currently work on ...
+I am a researcher working at the intersection of chemical engineering, materials science, and data science. I work on ...
+<div align="left">
+  <table>
+    <tr>
+      <td>• Functional nanomaterials</td>
+      <td>• Nanomaterial characterization</td>
+      <td>• Clean energy conversion and storage systems</td>
+    </tr>
+    <tr>
+      <td>• (Electro)catalysis and Electrosynthesis</td>
+      <td>• Scientific visualization</td>
+      <td>• High-throughput experimentation</td>
+    </tr>
 
-<table>
-  <tr>
-    <td style="border: none; padding: 2px 30px 2px 0;">• Functional nanomaterials</td>
-    <td style="border: none; padding: 2px 0;">• Nanoscale phenomena</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 2px 30px 2px 0;">• (Electro)catalysis and Electrosynthesis</td>
-    <td style="border: none; padding: 2px 0;">• High-throughput experimentation</td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 2px 30px 2px 0;">• Zero-emission energy conversion and storage systems</td>
-    <td style="border: none; padding: 2px 0;">• AI/ML for materials science and chemistry</td>
-  </tr>
-</table>
+  </table>
+</div>
 
 
 ## 🔬 Current Focus
-  - Developing PGM-free electrocatalysts for electrochemical reduction and CO₂ reduction.
+  - Developing PGM-free electrocatalysts for electrochemical O₂ and CO₂ reduction.
   - Developing _In situ_/_Operando_ characterization tools.
   - Building Python & MATLAB tools for electrochemical data analysis.
-  - Scientific visualization and automation for research workflows.
+  - Automation for R&D workflows.
+  - AI/ML for materials science and chemistry.
 
 ## Side Projects 
   - 🔭 P1 ...
