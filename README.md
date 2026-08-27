@@ -1,20 +1,13 @@
 ## Hey, I'm Wajdi. 👋
-**` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | Catalysis`**
+**` R&D Scientist | (Electro)Chemical Engineer | Advanced Materials | CCUS`**
 
 - 🔭 I’m currently working on ...
-- Catalysis and clean/sustainable fuel 
-- Electrochemical systems
-- Nanomaterials in electrochemistry
-- Electrochemical energy conversion and storage (Experimental and theoretical aspects of electrochemistry in which the goal is the interconversion of energy between different forms or the storage of energy, including the processes themselves and materials used for these purposes) 
-- Electrochemical process engineering & technology 
-- Electrochemistry of functional material
-- Sustainability and green electrochemical science 
-- Study nanoscale phenomena in electrocatalysis
-- Energy conversion
-- Power-to-X
-- Low-carbon energy
-- Electrocatalysis and Electrosynthesis
-- AI for Materials Science and Chemistry
+- Functional nanomaterials 
+- (Electro)catalysis and Electrosynthesis
+- Zero-emission energy conversion and storage systems
+- Nanoscale phenomena 
+- High-throughput experimentation
+- AI/ML for materials science and chemistry
 
 
 ## 🔬 Current Focus
